@@ -7,7 +7,9 @@ function theBeatlesPlay (array, instrument) {
 }
 
 function johnLennonFacts(facts) {
-  while (facts) {
+  while (facts[i]) {
+    facts[i] += "!!!"
+    i++;
     
   }
 }
